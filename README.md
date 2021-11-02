@@ -240,7 +240,7 @@
 
  <p><em>Fuente: <a href="https://www.pequerecetas.com/receta/14-recetas-de-halloween/">La galleta más terrorífica</a></em></p>
 
-    </body>
+
 </html>
 <style>
 body {background-color:grey}
@@ -248,4 +248,4 @@ h1 {color: blue  }
 h2 {color: yellow } 
 h3 {color: orange }
 h4 {color: red }
-</style>
+
