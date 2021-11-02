@@ -1,14 +1,20 @@
 <!DOCTYPE html>
 <html>
-    <head>
+<head>
+<title>Libro de DonJavier</title>
 <meta charset="utf-8">
-
- </head>
- <body>
+<style>
+body {background-color:grey}
+h1 {color: blue  }
+h2 {color: yellow } 
+h3 {color: orange }
+h4 {color: red }
+</style>
+</head>
+<body>
        
- <h1>Libro de Recetas de DonJavier</h1>
-        
- <h2>Contenidos</h2>
+<h1>Libro de Recetas de DonJavier</h1>
+<h2>Contenidos</h2>
         
  <ol>
 <li><a href="#arroz">Arroz con Pollo de DonJavier</a></li>
@@ -238,12 +244,6 @@
 </center>
 
  <p><em>Fuente: <a href="https://www.pequerecetas.com/receta/14-recetas-de-halloween/">La galleta más terrorífica</a></em></p>
-
-
-<style>
-body {background-color:grey}
-h1 {color: blue  }
-h2 {color: yellow } 
-h3 {color: orange }
-h4 {color: red }
+</body>
+</html>
 
