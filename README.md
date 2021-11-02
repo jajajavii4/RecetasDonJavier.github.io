@@ -3,8 +3,7 @@
     <head>
 <title>Libro de Recetas</title>
 <meta charset="utf-8">
- <style>
- </style>
+
  </head>
  <body>
        
@@ -249,3 +248,4 @@ h1 {color: blue  }
 h2 {color: yellow } 
 h3 {color: orange }
 h4 {color: red }
+</style>
