@@ -14,7 +14,7 @@
         <h2>Contenidos</h2>
         
         <ol>
-            <li><a href="#arroz">Arroz con Pollo de DonJavier</a></li>
+<li><a href="#arroz">Arroz con Pollo de DonJavier</a></li>
 <li><a href=#tortilla>Tortilla de Patatas de DonJavier</a></li>
 <li><a href=#roldy>San Jacobos de Pollo de DonJavier</a></li>
 <li><a href=#halloween>Galletas de Halloween</a></li>
